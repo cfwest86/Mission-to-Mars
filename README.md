@@ -1,5 +1,5 @@
 # Mission-to-Mars
-This was my first experience working in html. This repository contains the scrapping.py, app.py and index.html files for the Mission-to-Mars web scraping exercise utilizing  python, jupyter notebook, and mongodb.  I used Flask and Python to create a webscraping app, which then stored the information/documents in a non-relational database (mongodb).  For the site, I utilized the Bootstrap library, as well as basic Html and css formatting and populated it with the scraped data from my local mongodb database. 
+This was my first experience working in html. This repository contains the scrapping.py, app.py and index.html files for the Mission-to-Mars web scraping exercise utilizing  python, jupyter notebook, and mongodb.  I used Flask, Splinter, Python, and Beautiful Soup to create a webscraping app, which then stored the information/documents in a non-relational database (mongodb).  For the site, I utilized the Bootstrap library, as well as basic html and css formatting and populated it with the scraped data from my local mongodb database. 
 
 In addition to the base requirements, I added additional functionality to the site including but not limited to:
 
